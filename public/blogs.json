@@ -1,0 +1,52 @@
+[
+    {
+        "ID": "12345",
+        "Cover": "https://i.ibb.co/dr3726k/top-view-workspace-with-laptop-notebook.jpg",
+        "Title": "The Secret Life of Quantum Kittens",
+        "Author": "Alice Wonders",
+        "Author_img": "https://i.ibb.co/pKHzfX0/portrait-concentrated-redhead-man-writing-notebook.jpg",
+        "Posted_date": "September 13, 2023",
+        "Reading_time": "8 minutes",
+        "Hashtag": "#QuantumCats"
+    },
+    {
+        "ID": "67890",
+        "Cover": "https://i.ibb.co/dr3726k/top-view-workspace-with-laptop-notebook.jpg",
+        "Title": "Exploring the Mysteries of Deep Space",
+        "Author": "John Voyager",
+        "Author_img": "https://i.ibb.co/pKHzfX0/portrait-concentrated-redhead-man-writing-notebook.jpg",
+        "Posted_date": "September 12, 2023",
+        "Reading_time": "12 minutes",
+        "Hashtag": "#SpaceExploration"
+    },
+    {
+        "ID": "54321",
+        "Cover": "https://i.ibb.co/dr3726k/top-view-workspace-with-laptop-notebook.jpg",
+        "Title": "The Art of Culinary Delights",
+        "Author": "Julia Flavorista",
+        "Author_img": "https://i.ibb.co/pKHzfX0/portrait-concentrated-redhead-man-writing-notebook.jpg",
+        "Posted_date": "September 11, 2023",
+        "Reading_time": "10 minutes",
+        "Hashtag": "#FoodieAdventures"
+    },
+    {
+        "ID": "98765",
+        "Cover": "https://i.ibb.co/dr3726k/top-view-workspace-with-laptop-notebook.jpg",
+        "Title": "Unveiling Ancient Civilizations",
+        "Author": "Archaeo Explorer",
+        "Author_img": "https://i.ibb.co/pKHzfX0/portrait-concentrated-redhead-man-writing-notebook.jpg",
+        "Posted_date": "September 10, 2023",
+        "Reading_time": "15 minutes",
+        "Hashtag": "#Archaeology"
+    },
+    {
+        "ID": "24680",
+        "Cover": "https://i.ibb.co/dr3726k/top-view-workspace-with-laptop-notebook.jpg",
+        "Title": "The Zen of Mindfulness",
+        "Author": "Zen Master",
+        "Author_img": "https://i.ibb.co/pKHzfX0/portrait-concentrated-redhead-man-writing-notebook.jpg",
+        "Posted_date": "September 9, 2023",
+        "Reading_time": "6 minutes",
+        "Hashtag": "#MindfulnessMatters"
+    }
+]
